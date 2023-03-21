@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "calendarId": "videocall",
+      "title": "VIDEOCALL1 ",
+      "category": "allday",
+      "start": "2023-03-09T23:00:00.000Z",
+      "end": "2023-03-11T23:00:00.000Z",
+      "dueDateClass": "customCalendar-date-class",
+      "borderColor": "#9F2B68",
+      "raw": {
+        "eventPropertyId": "123123123",
+        "eventCustomerEmail": "",
+        "eventComments": "",
+        "eventActivateCertificate": false,
+        "eventNotifyToClient": false
+      },
+      "id": 1
+    },
+    {
+      "calendarId": "videocall",
+      "title": "VIDEOCALL HORAS",
+      "category": "time",
+      "start": "2023-03-14T12:00:00.000Z",
+      "end": "2023-03-14T18:01:00.000Z",
+      "dueDateClass": "customCalendar-date-class",
+      "borderColor": "#9F2B68",
+      "raw": {
+        "eventPropertyId": "12312312",
+        "eventCustomerEmail": "",
+        "eventComments": "",
+        "eventActivateCertificate": false,
+        "eventNotifyToClient": false
+      },
+      "id": 2
+    },
+    {
+      "calendarId": "openhouse",
+      "title": "OPENHOUSE GRUPAL",
+      "category": "time",
+      "start": "2023-03-22T12:00:00.000Z",
+      "end": "2023-03-22T19:01:00.000Z",
+      "dueDateClass": "customCalendar-date-class",
+      "borderColor": "#03bd9e",
+      "raw": {
+        "eventPropertyId": "123123123",
+        "eventCustomerEmail": "",
+        "eventComments": "",
+        "eventActivateCertificate": false,
+        "eventNotifyToClient": false
+      },
+      "id": 3
+    },
+    {
+      "calendarId": "videocall",
+      "title": "VIDEOCALL GRUPAL",
+      "category": "time",
+      "start": "2023-03-21T23:00:00.000Z",
+      "end": "2023-03-21T23:00:00.000Z",
+      "dueDateClass": "customCalendar-date-class",
+      "borderColor": "#9F2B68",
+      "raw": {
+        "eventPropertyId": "123123123",
+        "eventCustomerEmail": "",
+        "eventComments": "",
+        "eventActivateCertificate": false,
+        "eventNotifyToClient": false
+      },
+      "id": 4
+    },
+    {
+      "calendarId": "openhouse",
+      "title": "CASA ABIERTA",
+      "category": "time",
+      "start": "2023-03-10T15:00:00.000Z",
+      "end": "2023-03-10T18:01:00.000Z",
+      "dueDateClass": "customCalendar-date-class",
+      "borderColor": "#03bd9e",
+      "raw": {
+        "eventPropertyId": "123123",
+        "eventCustomerEmail": "",
+        "eventComments": "",
+        "eventActivateCertificate": false,
+        "eventNotifyToClient": false
+      },
+      "id": 5
+    }
+  ]
+}
